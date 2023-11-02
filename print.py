@@ -6,3 +6,5 @@ print(a)
 b=5
 c=a+b
 print(c)
+k=c
+print(k)
